@@ -1,0 +1,16 @@
+T__0=1
+T__1=2
+PLUS=3
+MINUS=4
+TIMES=5
+DIV=6
+PARENTESIS=7
+NUMBER=8
+SPACES=9
+'('=1
+')'=2
+'+'=3
+'-'=4
+'*'=5
+'/'=6
+')('=7
